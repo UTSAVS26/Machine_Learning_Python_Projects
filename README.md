@@ -1,5 +1,4 @@
-<style>
-  .n1H {
+.n1H {
   color: #ffffff;
   font-family: Coming Soon, 'Source Sans Pro';
   font-size: 1.5rem;
@@ -11,10 +10,11 @@
   position: absolute;
   top: 11.1rem;
   width: 51.5rem;
-
-  .n1H-sub-0 {
   }
-  .n1H-sub-1 {
+
+.n1H-sub-0 {
+  }
+.n1H-sub-1 {
     color: #ffffff;
     font-family: Coming Soon, 'Source Sans Pro';
     font-size: 1.7rem;
@@ -24,9 +24,6 @@
   }
   .n1H-sub-2 {
   }
-}
-
-</style>
 
 <div class="a4-1-7iT" id="1:2">
 <p class="machine-learning-projects-using-python-HWT" id="1:3">MACHINE LEARNING PROJECTS USING PYTHON</p>
